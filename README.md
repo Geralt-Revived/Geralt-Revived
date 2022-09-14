@@ -3,19 +3,19 @@
 ✨✨
 ✨✨
 ## ✨技术栈
-### 语言
-- C#
-- python
-- Lua
-
 ### ✨引擎
 - Unity
 - UnrealEngine
 
-### ✨技能点
+### ✨技术点
 - Shader
 - ShaderGraph
 - Universal Render Pipleline
+
+### ✨语言
+- C#
+- python
+- Lua
 
 
 

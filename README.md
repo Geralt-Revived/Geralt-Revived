@@ -7,10 +7,9 @@
 - Unity
 - UnrealEngine
 
-### ✨技术点
+### ✨技能点
 - Shader
 - ShaderGraph
-- Universal Render Pipleline
 
 ### ✨语言
 - C#

@@ -14,6 +14,7 @@
 
 ### ✨语言
 - C#
+- HLSL
 - python
 - Lua
 

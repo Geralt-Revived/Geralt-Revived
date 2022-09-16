@@ -7,7 +7,7 @@
 - Unity
 - UnrealEngine
 
-### ✨技能点
+### ✨主要技能点
 - Shader
 - ShaderGraph
 

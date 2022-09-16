@@ -1,4 +1,4 @@
-## 👋大家好，我是Milk，从事游戏行业。
+## 👋大家好，我是Geralt，从事游戏行业。
 ✨
 博客主页：[https://Geralt-Revived.github.io/](https://Geralt-Revived.github.io/)
 

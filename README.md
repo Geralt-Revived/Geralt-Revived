@@ -1,4 +1,5 @@
 ## 👋大家好，我是Geralt，从事游戏行业。
+## Hey,I'm Geralt, a game programmer.
 ✨
 博客主页：[https://Geralt-Revived.github.io/](https://Geralt-Revived.github.io/)
 

@@ -1,16 +1,17 @@
 ## 👋大家好，我是Geralt，从事游戏行业。
 ## Hey,I'm Geralt, a game programmer.
 ✨
-博客主页：[https://Geralt-Revived.github.io/](https://Geralt-Revived.github.io/)
 
 ## ✨技术栈
 ### ✨引擎
 - Unity
 - UnrealEngine
+- 自研引擎
 
 ### ✨主要技能点
 - Shader
 - ShaderGraph
+- Graphics
 
 ### ✨语言
 - C#

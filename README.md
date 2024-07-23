@@ -6,9 +6,8 @@
 - Unity
 - UnrealEngine
 
-### ✨主要技能
+### ✨擅长领域
 - compute graphics
-- 
 
 ### ✨熟练语言
 - c++

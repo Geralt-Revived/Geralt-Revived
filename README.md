@@ -6,18 +6,18 @@
 ### ✨引擎
 - Unity
 - UnrealEngine
-- 自研引擎
 
-### ✨主要技能点
-- Shader
-- ShaderGraph
-- Graphics
+### ✨主要技能
+- compute graphics
+- 
 
-### ✨语言
+### ✨熟练语言
+- c++
+
+### ✨熟悉语言
 - C#
 - HLSL
 - python
-- Lua
 
 
 

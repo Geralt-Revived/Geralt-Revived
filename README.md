@@ -1,19 +1,10 @@
-## 👋大家好，我是Geralt，从事游戏行业。
+## 👋大家好，我是Geralt，游戏行业，目前职位是做游戏引擎开发
+
 ## ✨技术栈
-### ✨引擎
-- Unity
-- UnrealEngine
 
-### ✨擅长领域
-- compute graphics
-
-### ✨熟练语言
-- c++
-
-### ✨熟悉语言
-- C#
-- HLSL
-- python
+Language：c++、HLSL
+Graphic API：Vulkan
+Engine：rendering、taskgraph、framegraph
 
 
 
